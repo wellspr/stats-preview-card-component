@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-semantic-html-and-css-with-flexbox-HkwZ1t6E5](https://www.frontendmentor.io/solutions/stats-preview-card-semantic-html-and-css-with-flexbox-HkwZ1t6E5)
 - Live Site URL: [https://stats-preview-card-component-wellspr.vercel.app/](https://stats-preview-card-component-wellspr.vercel.app/)
 
 
@@ -48,11 +48,12 @@ Users should be able to:
 
 ### What I learned
 
+I liked to discover the css property `background-blend-mode`, that I used to create the purpleish header image. This property permits one to blend background layers, and the value of the property defines the blending mode. I had to tweak a little to find that the perfect value for the problem at hand was "multiply".
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [https://www.w3schools.com/cssref/pr_background-blend-mode.asp](https://www.w3schools.com/cssref/pr_background-blend-mode.asp) - This resource helped me to get the purpleish header image.
 
 
 ## Author

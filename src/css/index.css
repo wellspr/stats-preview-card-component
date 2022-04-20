@@ -59,7 +59,7 @@ header#card-header {
     border-top-right-radius: 10px;
 }
 
-section#card-main {
+#card-main {
     margin: 2rem var(--margin-x-main) 1.2rem;
 }
 
@@ -102,7 +102,7 @@ li .list-item p {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1200px) {
     section#card {
         width: var(--width_desktop);
         display: flex;
@@ -128,7 +128,7 @@ li .list-item p {
         order: 2;
     }
 
-    section#card-main {
+    #card-main {
         display: flex;
         flex-direction: column;
         justify-content: center;
